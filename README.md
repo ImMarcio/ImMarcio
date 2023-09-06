@@ -1,11 +1,11 @@
-# Juliana Ferreira
+# Márcio José 
 
 ### Olá, bem-vindo(a)! ☺️
 
 <div align="center">
   <a href="https://github.com/julianafer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianafer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafer&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImMarcio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMarcio&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
 ## Redes sociais 📷
 
 <div>
-  <a href="https://www.linkedin.com/in/julianaferreirac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/_julia.anaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:julianafercavalcant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/immarcio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/marcioj._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marciojsilva159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

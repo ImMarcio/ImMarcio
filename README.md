@@ -3,7 +3,7 @@
 ### Olá, bem-vindo(a)! ☺️
 
 <div align="center">
-  <a href="https://github.com/julianafer">
+  <a href="https://github.com/ImMarcio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImMarcio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMarcio&layout=compact&langs_count=6&theme=dark"/>
 </div>
